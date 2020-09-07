@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54abeac5-9128-4e8b-b508-f71ffd62719c" name="Default Changelist" comment="" />
+    <list default="true" id="54abeac5-9128-4e8b-b508-f71ffd62719c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -183,6 +188,7 @@
       <workItem from="1599461883898" duration="1083000" />
       <workItem from="1599463997733" duration="2441000" />
       <workItem from="1599466468967" duration="438000" />
+      <workItem from="1599489427993" duration="10000" />
     </task>
     <servers />
   </component>
